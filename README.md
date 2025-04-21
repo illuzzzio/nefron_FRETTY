@@ -150,6 +150,8 @@ export default function Home() {
 
     Built using Next.js 14+ App Router (app/)
 
+    On pressing Q , you can communicate with fretty and can navigate to youtube , google , linkedin and some of the famosu sites 
+
     Uses useEffect for client-side rendering and loading static content
 
     Clerk handles both sign in and sign up flows
