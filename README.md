@@ -156,9 +156,6 @@ export default function Home() {
 
     Voice functionality handled via window.SpeechRecognition and speechSynthesis
 
-📸 Screenshots
-
-![Screenshot 2025-04-21 170444](https://github.com/user-attachments/assets/d8b77869-c382-4367-b6e7-ad7abfe0e211)
 
 
 🧾 License
